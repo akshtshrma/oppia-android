@@ -10,8 +10,8 @@ import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.oppia.android.domain.classify.ClassificationContext
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder.createSetOfTranslatableHtmlContentIds
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder.createString
+import org.oppia.android.testing.InteractionObjectTestBuilder.createSetOfTranslatableHtmlContentIds
+import org.oppia.android.testing.InteractionObjectTestBuilder.createString
 import org.oppia.android.testing.assertThrows
 import org.robolectric.annotation.Config
 import org.robolectric.annotation.LooperMode

@@ -11,7 +11,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import org.oppia.android.app.model.InteractionObject
 import org.oppia.android.domain.classify.ClassificationContext
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder
+import org.oppia.android.testing.InteractionObjectTestBuilder
 import org.oppia.android.domain.classify.RuleClassifier
 import org.robolectric.annotation.Config
 import org.robolectric.annotation.LooperMode

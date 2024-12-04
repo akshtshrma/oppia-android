@@ -14,10 +14,10 @@ import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.oppia.android.domain.classify.ClassificationContext
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder.createNonNegativeInt
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder.createString
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder.createTranslatableSetOfNormalizedString
-import org.oppia.android.domain.classify.InteractionObjectTestBuilder.createTranslationContext
+import org.oppia.android.testing.InteractionObjectTestBuilder.createNonNegativeInt
+import org.oppia.android.testing.InteractionObjectTestBuilder.createString
+import org.oppia.android.testing.InteractionObjectTestBuilder.createTranslatableSetOfNormalizedString
+import org.oppia.android.testing.InteractionObjectTestBuilder.createTranslationContext
 import org.oppia.android.domain.oppialogger.LogStorageModule
 import org.oppia.android.domain.oppialogger.LoggingIdentifierModule
 import org.oppia.android.domain.oppialogger.analytics.ApplicationLifecycleModule
